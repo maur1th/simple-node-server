@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maur1th/simple-node-server.git",
+  "author": "Thomas Maurin <thomas@maurin.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
